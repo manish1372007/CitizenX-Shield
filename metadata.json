@@ -1,0 +1,6 @@
+{
+  "name": "CitizenX Shield",
+  "description": "A lightweight professional cybersecurity portal. Tracks phone scam reports, runs real client-side OCR Aadhaar card verification, and scans uploaded images, speech recordings, and temporal video frame sequences for AI deepfake/synthesis indicators.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
